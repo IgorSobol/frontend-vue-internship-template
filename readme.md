@@ -1,5 +1,4 @@
 # Frontend vue internship template
-***
 
 ## Hey!
 
@@ -12,7 +11,6 @@ This assignment is designed for basic learning [Vue.js](https://Vue.js.org/). In
 
 
 ## Questions
-***
 1) What is Vue.js?
 2) List some features of Vue.js.
 3) Explain Life cycle of Vue Instance.
@@ -35,7 +33,7 @@ This assignment is designed for basic learning [Vue.js](https://Vue.js.org/). In
 20) How to call rest API from Vue.js?
 
 ## Stack of technologies<a name="stackOfTechnologies"></a>
-***
+
 1) [Vue.js](https://Vue.js.org/)
 3) [Vuex](https://Vue.js.org/)
 2) [Ant Designe](https://Vue.js.org/)
@@ -73,6 +71,7 @@ Block application (redirect user to login page) until user passes OAuth authoriz
 ### API
 [GitHub REST API](https://docs.github.com/en/rest)
 
+![project_image](https://github.com/IgorSobol/frontend-vue-internship-template/blob/master/project_image.png)
 
 
 ## Project setup
